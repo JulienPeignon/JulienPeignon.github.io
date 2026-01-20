@@ -17,6 +17,7 @@ I am currently working on combining machine learning with noncausal econometric 
 Also desperately waiting for Olympique Lyonnais to lift a title, for Pierre Sage to make a comeback, and for Cherki to win the Ballon d’Or.
 </p>
 
-
-
+<p style="text-align: center;">
+<img src="/images/fekir.png" alt="Fekir" style="width: 70%;">
+</p>
 
