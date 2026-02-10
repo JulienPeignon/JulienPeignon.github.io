@@ -14,5 +14,13 @@ I am currently working on combining machine learning with noncausal econometric 
 </p>
 
 <p style="text-align: justify;">
+If you think this gif is as cool as I do, you might enjoy our <a href="https://arxiv.org/abs/2601.14049">working paper</a> with Elena Dumitrescu and Arthur Thomas.
+</p>
+
+<p style="text-align: center;">
+<img src="../files/MDN_gif.gif" alt="Density forecast animation" style="max-width: 100%;">
+</p>
+
+<p style="text-align: justify;">
 Also desperately waiting for Olympique Lyonnais to lift a title, for Pierre Sage to make a comeback, and for Cherki to win the Ballon d’Or.
 </p>
