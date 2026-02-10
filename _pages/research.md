@@ -14,7 +14,7 @@ Peer-reviewed proceedings in international conferences
 Working papers
 =====
 
-**Tail-aware density forecasting of locally explosive time series: a neural network approach.** Dumitrescu, E., Peignon, J., Thomas, A. (2026) [[working paper](https://arxiv.org/abs/2601.14049)]
+**Tail-aware density forecasting of locally explosive time series: a neural network approach.** Dumitrescu, E., Peignon, J., Thomas, A. (2026) [[working paper](https://arxiv.org/abs/2601.14049)] [[online appendix](../files/online-appendix-tail-aware.pdf)]
 
 
 
