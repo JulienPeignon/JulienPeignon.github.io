@@ -8,6 +8,9 @@ author_profile: true
 Conferences
 =====
 
+**2026**
+- 03/2026 - **16th Workshop in Time Series Econometrics** (Universidad Zaragoza, [program](https://www.timeserieseconometrics.com))
+
 **2025**
 
 - 12/2025 - **19th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics** (CFE-CMStatistics 2025, [program](../files/BoA-CFE25.pdf))
