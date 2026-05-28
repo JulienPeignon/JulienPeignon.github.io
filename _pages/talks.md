@@ -10,6 +10,8 @@ Conferences
 
 **2026**
 
+- 05/2026 - **Time Series AI in Macroeconomics & Finance** (University of Bristol, [program](../files/Workshop_Bristol.pdf))
+
 - 04/2026 - **34th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning** (Bruges, [program](https://www.esann.org/program))
 
 - 03/2026 - **16th Workshop in Time Series Econometrics** (Universidad Zaragoza, [program](https://www.timeserieseconometrics.com/uploads/1/3/6/6/136649212/program_2026.pdf))
