@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://julienpeignon.github.io/sitemap.xml

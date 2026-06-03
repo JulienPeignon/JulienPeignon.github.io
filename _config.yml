@@ -9,7 +9,7 @@ locale                   : "en-US"
 title                    : "Julien Peignon"
 title_separator          : "-"
 name                     : &name "Julien Peignon"
-description              : &description "PhD student in applied mathematics at [University Paris Dauphine- PSL](https://www.ceremade.dauphine.fr/en.html)"
+description              : &description "PhD student in applied mathematics at University Paris Dauphine-PSL."
 url                      : https://julienpeignon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "julienpeignon/julienpeignon.github.io" #"academicpages/academicpages.github.io"
@@ -49,7 +49,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : 1677cf7f5f5b45f8
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
