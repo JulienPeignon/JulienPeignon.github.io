@@ -10,6 +10,8 @@ Conferences
 
 **2026**
 
+- 06/2026 - **8th Quantitative Finance and Financial Econometrics** (AMSE, [program](../files/qffe26.pdf))
+
 - 05/2026 - **Time Series AI in Macroeconomics & Finance** (University of Bristol, [program](../files/Workshop_Bristol.pdf))
 
 - 04/2026 - **34th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning** (Bruges, [program](https://www.esann.org/program))
