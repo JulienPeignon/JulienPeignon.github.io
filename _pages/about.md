@@ -14,6 +14,11 @@ I am a first-year PhD student in mathematics, working under the supervision of F
 I am currently working on combining machine learning with noncausal econometric methods to forecast locally explosive time series.
 </p>
 
+<p style="text-align: center;">
+**Breaking news!!**
+<img src="../files/sage.png" alt="Sage le goat" style="max-width: 100%;">
+</p>
+
 <p style="text-align: justify;">
 If you think this gif is as cool as I do, you might enjoy our <a href="https://arxiv.org/abs/2601.14049">working paper</a> with Elena Dumitrescu and Arthur Thomas.
 </p>
