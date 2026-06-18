@@ -9,14 +9,15 @@ redirect_from:
   - /about.html
 ---
 
+# **Breaking news!!**
+
+<p style="text-align: center;">
+    <img src="../files/sage.png" alt="Sage le goat" style="max-width: 100%;">
+</p>
+
 <p style="text-align: justify;">
 I am a first-year PhD student in mathematics, working under the supervision of Fabrice Rossi and Arthur Thomas.
 I am currently working on combining machine learning with noncausal econometric methods to forecast locally explosive time series.
-</p>
-
-<p style="text-align: center;">
-**Breaking news!!**
-<img src="../files/sage.png" alt="Sage le goat" style="max-width: 100%;">
 </p>
 
 <p style="text-align: justify;">
