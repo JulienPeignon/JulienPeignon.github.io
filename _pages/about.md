@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Julien Peignon"
+title: ""
 description: "Julien Peignon, PhD student in mathematics at University Paris Dauphine-PSL. Research on machine learning, time series, and noncausal econometrics."
 excerpt: "About me"
 author_profile: true
@@ -9,11 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-# **Breaking news!!**
+<h1 style="text-align: center;"><strong>Breaking news!!</strong></h1>
 
 <p style="text-align: center;">
     <img src="../files/sage.png" alt="Sage le goat" style="max-width: 100%;">
 </p>
+
+# Me, myself, and I
 
 <p style="text-align: justify;">
 I am a first-year PhD student in mathematics, working under the supervision of Fabrice Rossi and Arthur Thomas.
