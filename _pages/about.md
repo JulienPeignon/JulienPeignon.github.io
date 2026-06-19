@@ -12,7 +12,7 @@ redirect_from:
 <h1 style="text-align: center;"><strong>Breaking news!!</strong></h1>
 
 <p style="text-align: center;">
-    <img src="../files/sage.png" alt="Sage le goat" style="max-width: 100%;">
+    <img src="../images/sage.png" alt="Sage le goat" style="max-width: 100%;">
 </p>
 
 # Me, myself, and I
@@ -27,7 +27,7 @@ If you think this gif is as cool as I do, you might enjoy our <a href="https://a
 </p>
 
 <p style="text-align: center;">
-<img src="../files/MDN_gif.gif" alt="Density forecast animation" style="max-width: 100%;">
+<img src="../images/MDN_gif.gif" alt="Density forecast animation" style="max-width: 100%;">
 </p>
 
 <p style="text-align: justify;">
