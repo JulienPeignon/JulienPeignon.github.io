@@ -10,7 +10,7 @@ Conferences
 
 **2026**
 
-- 06/2026 - **International Association for Applied Econometrics (IAAE) Annual Conference** (Nova Business Schollar, [program](https://editorialexpress.com/conference/IAAE2026/program/IAAE2026.html))
+- 06/2026 - **International Association for Applied Econometrics (IAAE) Annual Conference** (Nova Business School, [program](https://editorialexpress.com/conference/IAAE2026/program/IAAE2026.html))
 
 - 06/2026 - **8th Quantitative Finance and Financial Econometrics** (AMSE, [program](../files/qffe26.pdf))
 
