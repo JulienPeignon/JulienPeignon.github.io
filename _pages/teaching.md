@@ -5,8 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-University Paris Dauphine - PSL
+Statistics
 =====
 
-- Econometrics [Lecturer, Undergraduate class] (2026)
-- Time series econometrics [Lecturer, Graduate class] (2025)
+- Statistics [Undergraduate class - Teaching Assistant] (2026)<br>
+  *Université Paris Dauphine-PSL, Paris, France*
+
+Econometrics
+=====
+
+- Econometrics [Undergraduate class - Lecturer] (2026)<br>
+  *Université Paris Dauphine-PSL, Paris, France*
+
+- Time series econometrics [Graduate class - Lecturer] (2025)<br>
+  *Université Paris Dauphine-PSL, Paris, France*

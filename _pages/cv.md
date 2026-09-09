@@ -8,7 +8,7 @@ author_profile: true
 Education
 =====
 
-- Ph.D in Mathematics, *University Paris Dauphine* (2025-now)
+- Ph.D in Mathematics, *Université Paris Dauphine-PSL* (2025-now)
 
 - M.Sc. in Statistical Learning, MVA, *ENS Paris-Saclay* (2024-2025)
 
@@ -18,7 +18,7 @@ Education
 
 - French Grande Ecole Diploma, equivalent to a M.Sc., Major in Quantitative Economics, *ENS Paris-Saclay* (2020-2025)
 
-- Erasmus Semester, *Ludwig-Maximilians-Universität München (LMU)*, (2021)
+- Erasmus Semester, *Ludwig-Maximilians-Universität München (LMU)* (2021)
 
 Work Experience
 =====
