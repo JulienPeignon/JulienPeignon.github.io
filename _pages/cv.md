@@ -1,9 +1,14 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
+
+<p>
+  <a class="btn" href="{{ '/files/cv.pdf' | relative_url }}" download="Julien-Peignon-CV.pdf"><i class="fas fa-download" aria-hidden="true"></i> Download CV (PDF)</a>
+  <a class="btn btn--inverse" href="{{ '/files/cv.pdf' | relative_url }}">View PDF</a>
+</p>
 
 Education
 =====
@@ -31,4 +36,3 @@ Work Experience
 
 - Statistical Intern (Summer 2023)<br>
   *French National Institute for Statistics and Economic Studies*
-
