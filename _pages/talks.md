@@ -31,6 +31,8 @@ Workshops and Seminars
 
 **2026**
 
+- 11/2026 - **25ème Journée d'Économétrie** (Université Paris Nanterre, [program](https://economix.fr/fr/colloques-et-workshops/25eme-journee-deconometrie-developpements-recents-de-leconometrie-appliquee-a-la-finance))
+
 - 06/2026 - **57es Journées de Statistique de la SFdS** (Clermont-Ferrand, [program](https://jds2026.sciencesconf.org/resource/page/id/16))
 
 **2025**
