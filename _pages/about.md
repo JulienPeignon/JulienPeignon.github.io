@@ -4,7 +4,7 @@ title: ""
 description: "Julien Peignon, PhD student in mathematics at Université Paris Dauphine-PSL. Research on machine learning, time series, and noncausal econometrics."
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
