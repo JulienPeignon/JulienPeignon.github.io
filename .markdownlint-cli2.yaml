@@ -1,0 +1,9 @@
+# Rules follow how the pages in _pages/ are written (Jekyll + kramdown).
+config:
+  default: true
+  MD003: false # Heading style: pages use setext ("=====") headings
+  MD013: false # Line length: paragraphs are kept on a single line
+  MD025: false # Single H1: pages use "=====" headings for each section
+  MD033: false # Inline HTML: used for layout, links and images
+  MD036: false # Emphasis as heading: bold years group the talks
+  MD041: false # First line heading: the title comes from the front matter

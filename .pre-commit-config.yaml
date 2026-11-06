@@ -1,0 +1,37 @@
+# Activate once with: pre-commit install
+
+# nodeenv's default resolves to an unparsable pre-release, so pin an LTS release.
+default_language_version:
+  node: 26.13.0
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      # All files
+      - id: check-merge-conflict
+      - id: check-added-large-files
+        args: [--maxkb=5120]
+        exclude: \.pdf$ # Papers and conference programs can be large
+
+      # Data files
+      - id: check-yaml
+      - id: check-json
+
+      # Markdown
+      - id: trailing-whitespace
+        files: \.md$
+        # Keep two trailing spaces, which are a Markdown hard line break.
+        args: [--markdown-linebreak-ext=md]
+      - id: end-of-file-fixer
+        files: \.md$
+      - id: mixed-line-ending
+        files: \.md$
+        args: [--fix=lf]
+
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.24.0
+    hooks:
+      - id: markdownlint-cli2
+        files: \.md$
+        exclude: ^CHANGELOG\.md$ # Inherited from the upstream theme
