@@ -10,6 +10,8 @@ Conferences
 
 **2026**
 
+- 11/2026 - **4th Financial Econometrics Meets Machine Learning Conference (FinEML 2026)** (University of Geneva, [program](https://www.eur.nl/en/ese/media/2026-11-fineml2026programmewithsessionchairs)
+
 - 08/2026 - **9th International Conference on Econometrics and Statistics (EcoSta 2026)** (Ryukoku University, Kyoto, [program](../files/BoA_EcoSta26.pdf))
 
 - 06/2026 - **International Association for Applied Econometrics (IAAE) Annual Conference** (Nova Business School, [program](https://editorialexpress.com/conference/IAAE2026/program/IAAE2026.html))
